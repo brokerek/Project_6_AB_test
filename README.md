@@ -1,9 +1,10 @@
 Для того, чтобы запустить проект нужно скачать датасеты, которые лежат в корневой директории проетка.
 
 Список датасетов:
-- visits_log.csv
-- orders_log.csv
-- costs.csv
+- ab_project_marketing_events.csv
+- final_ab_new_users.csv
+- final_ab_events.csv
+- final_ab_participants.csv
 
 ## Описание проекта
 
